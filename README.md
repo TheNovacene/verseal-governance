@@ -39,7 +39,10 @@ Inspired by the Verse-ality framework → [https://verse-ality.com/](https://ver
 
 ---
 
-## 📄 License
-This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You are free to share, remix, and build upon this work — even commercially — as long as you give appropriate credit and indicate if changes were made.
+## 📄 Licence
 
-This license honours open-source knowledge sharing and supports equitable adaptation with Purchasing Power Parity (PPP) in mind.
+This work is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](./LICENSE). You are free to share and adapt the material for non-commercial purposes, provided you give attribution to The Novacene Ltd and license any derivatives under identical terms.
+
+This brings verseal-governance into alignment with the rest of the Verse-ality framework, which is uniformly CC BY-NC-SA 4.0 for content. Commercial licensing is available — contact legal@thenovacene.com.
+
+"Verse-ality" is a protected mark of The Novacene Ltd (UK00004381891 filed 1 May 2026).
